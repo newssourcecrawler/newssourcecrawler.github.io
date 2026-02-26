@@ -1,5 +1,18 @@
-# Systems Notes
+# Ismail Canga
 
-Writing on transport protocols, execution boundaries, and systems design.
+Systems engineer focused on transport discipline, execution boundaries, and operational accounting.
 
-- Heptaconn: separating admission and execution
+I build tools that separate admission from execution and make demand measurable.
+
+---
+
+## Writing
+
+- Heptaconn: separating admission and execution (coming soon)
+
+---
+
+## Projects
+
+- Heptaconn protocol
+- Deterministic transport and receipt accounting
