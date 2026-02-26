@@ -2,7 +2,8 @@
 
 Systems engineer. Execution boundaries matter.
 
-I build tools that separate admission from execution and make demand measurable.
+Admission, execution, and accounting are different things.
+Most systems treat them as one.
 
 ---
 
