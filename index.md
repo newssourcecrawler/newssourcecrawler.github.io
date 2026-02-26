@@ -1,6 +1,6 @@
 # Ismail Canga
 
-Systems engineer focused on transport discipline, execution boundaries, and operational accounting.
+Systems engineer. Execution boundaries matter.
 
 I build tools that separate admission from execution and make demand measurable.
 
