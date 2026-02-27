@@ -7,13 +7,14 @@ Most systems treat them as one.
 
 ---
 
-## Writing
+## Essays
 
-- Heptaconn: separating admission and execution (coming soon)
-
+- Heptaconn: Separating Admission and Execution  
+- On Admission Latency vs Compute Latency  
+- Framing Async: Making Execution Observable
 ---
 
 ## Projects
 
-- Heptaconn protocol
-- Deterministic transport and receipt accounting
+- Heptaconn — framed transport with explicit admission and receipts  
+- Tokioframed — modeling async execution in discrete phases  
